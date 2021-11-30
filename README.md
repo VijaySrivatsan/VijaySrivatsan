@@ -1,9 +1,11 @@
 ### Greetings fellow human 👋 This is T.R. Vijay Srivatsan
 
+![Profile views](https://gpvc.arturio.dev/VijaySrivatsan)  
+
 #### A creative and passionate engineering student from Trichy, India 
 
 
-I am a Bachelor of Technology in Computer Science Engineering with Artificial Intelligence and Machine Learning student in SRM University :) I am a pre-final year student and currently building skills to achieve certain goals I'd like to. I personally love learning new things especially when related to the computer aspect of technology! 
+I am a Bachelor of Technology in Computer Science Engineering with Artificial Intelligence and Machine Learning student in SRM University. I am a pre-final year student and currently building skills to achieve certain goals. I personally love learning new things especially when related to the computer aspect of technology! 
 
 - 🔭 I’m currently working on Adobe Illustrator  
 - 🌱 I’m currently learning User Experience Design  
@@ -24,12 +26,10 @@ I am a Bachelor of Technology in Computer Science Engineering with Artificial In
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VijaySrivatsan)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VijaySrivatsan&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Stats:</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VijaySrivatsan&show_icons=true&theme=tokyonight)  
+  <img src="https://activity-graph.herokuapp.com/graph?username=VijaySrivatsan&bg_color=0d1017&color=00ff00&point=11b819&area=false&line=00ff00&hide_border=true" alt="Contribution graph" />
+  <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=VijaySrivatsan&show_icons=true&theme=dark" alt="Stats" />
+  <img align="right" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=VijaySrivatsan&theme=dark" alt="Stats" />
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VijaySrivatsan&theme=radical)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=VijaySrivatsan&theme=tokyonight)  
-
-![Profile views](https://gpvc.arturio.dev/VijaySrivatsan)  

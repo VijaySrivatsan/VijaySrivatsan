@@ -28,7 +28,7 @@ I am a Bachelor of Technology in Computer Science Engineering with Artificial In
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VijaySrivatsan&show_icons=true&theme=tokyonight)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VijaySrivatsan&theme=tokyonight)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VijaySrivatsan&theme=radical)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=VijaySrivatsan&theme=tokyonight)  
 

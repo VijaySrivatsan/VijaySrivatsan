@@ -24,14 +24,12 @@ I am a Bachelor of Technology in Computer Science Engineering with Artificial In
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VijaySrivatsan)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VijaySrivatsan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VijaySrivatsan&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VijaySrivatsan&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VijaySrivatsan&show_icons=true&theme=tokyonight)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VijaySrivatsan)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VijaySrivatsan&theme=tokyonight)  
 
-![GitHub metrics](https://metrics.lecoq.io/VijaySrivatsan)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=VijaySrivatsan)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=VijaySrivatsan&theme=tokyonight)  
 
 ![Profile views](https://gpvc.arturio.dev/VijaySrivatsan)  

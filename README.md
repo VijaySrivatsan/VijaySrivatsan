@@ -5,7 +5,7 @@
 #### A creative and passionate engineering student from Trichy, India 
 
 
-I am a Bachelor of Technology in Computer Science Engineering with Artificial Intelligence and Machine Learning student in SRM University. I am a pre-final year student and currently building skills to achieve certain goals. I personally love learning new things especially when related to the computer aspect of technology! 
+I am a Bachelor of Technology in Computer Science Engineering with Artificial Intelligence and Machine Learning student in SRM Institute of Science and Technology, Chennai. I am a pre-final year student and currently building skills to achieve certain goals in life I'd like to. I personally love learning new things especially when related to the computer aspect of technology! 
 
 - 🔭 I’m currently working on Adobe Illustrator  
 - 🌱 I’m currently learning User Experience Design  

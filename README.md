@@ -29,5 +29,6 @@ I am a Bachelor of Technology in Computer Science Engineering with Artificial In
 <h3 align="left">Stats:</h3>
 
   <img src="https://activity-graph.herokuapp.com/graph?username=VijaySrivatsan&bg_color=0d1017&color=00ff00&point=11b819&area=false&line=00ff00&hide_border=true" alt="Contribution graph" />
-  <img align="left" width="419" src="https://github-readme-stats.vercel.app/api?username=VijaySrivatsan&show_icons=true&theme=dark" alt="Stats" /> <img align="center" width="419" src="https://github-readme-streak-stats.herokuapp.com/?user=VijaySrivatsan&theme=dark" alt="Stats" />
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=VijaySrivatsan&show_icons=true&theme=dark" alt="Stats" /> 
+  <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=VijaySrivatsan&theme=dark" alt="Stats" />
   </p>

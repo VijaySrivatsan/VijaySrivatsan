@@ -1,7 +1,5 @@
 ### Greetings fellow human 👋 This is T.R. Vijay Srivatsan
 
-
-**VijaySrivatsan/VijaySrivatsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #### A creative and passionate engineering student from Trichy, India 
 
 

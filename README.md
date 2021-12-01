@@ -1,8 +1,8 @@
-### Greetings fellow human 👋 This is T.R. Vijay Srivatsan
+## Greetings fellow human 👋 This is T.R. Vijay Srivatsan
 
 ![Profile views](https://gpvc.arturio.dev/VijaySrivatsan)  
 
-#### A creative and passionate engineering student from Trichy, India 
+### A creative and passionate engineering student from Trichy, India 
 
 
 A student, a learner and programmer, I am a proficient and capable individual who is in my pre-final year in SRM Institute of Science and Technology, Chennai. The computer aspect of technology has always fascinated me and this interest has nurtured a love for learning new things. Presently I am working towards expanding my skill set for the better achievement of my goals in life. 

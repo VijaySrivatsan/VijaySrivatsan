@@ -12,7 +12,7 @@ A student, a learner and programmer, I am a proficient and capable individual wh
 - 🤔 I’m looking for help with JavaScript 
 - 💬 Ask me about Photoshop 
 - 📫 How to reach me: vjsgaming21@gmail.com 
-- ⚡ Fun fact: At the end of the day, It's night ;) 
+- ⚡ Fun fact: At the end of the day, it's night ;) 
  
 
 <h3 align="left">Languages and Tools:</h3>
